@@ -39,7 +39,7 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Contact Info */}
+          {/* Contact iiiInfo */}
           <div>
             <h4 className="font-medium mb-4">{t('footer.contact')}</h4>
             <div className="space-y-3">
