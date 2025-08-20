@@ -1,0 +1,89 @@
+{
+  "brand": "Steppe IT Company",
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "services": "Xizmatlar",
+    "tools": "Asboblar",
+    "works": "Ishlar",
+    "price": "Narxlar",
+    "blog": "Blog",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "headline": "Cheksiz imkoniyatlar uchun cheksiz texnologiya.",
+    "subheadline": "Jamoalar uchun ishonchli end-to-end mahsulot muhandisligi, DevOps va avtomatlashtirish.",
+    "ctaDemo": "Demo so'rash",
+    "ctaServices": "Xizmatlarni ko'rish"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "copy": "Steppe IT Solution – bu faqatgina dasturiy ta'minot ishlab chiqaruvchi jamoa emas, balki biznesingizni rivojlantiruvchi texnologik hamkor.Bizning kuchimiz – murakkab g'oyalarni oddiy, ishlaydigan va foydalanuvchilar uchun qulay mahsulotlarga aylantirish. Har bir loyihamizda ishonchlilik, unumdorlik va estetik dizayn ustuvor yo'nalishimiz hisoblanadi. Biz raqamli dunyoda kompaniyalarga yangi imkoniyatlar yaratamiz."
+  },
+  "services": {
+    "title": "Xizmatlar",
+    "items": {
+      "websites": "Veb-saytlar",
+      "webapps": "Veb ilovalar",
+      "mobile": "Mobil ilovalar",
+      "branding": "Brending", 
+      "design": "Dizayn",
+      "ai": "AI avtomatlashtirish",
+      "n8n": "n8n integration",
+      "saas": "SaaS system",
+      "mechanical": "Mechanical engineering"
+    },
+    "descriptions": {
+      "websites": "Zamonaviy va responsiv veb-saytlar yaratish",
+      "webapps": "Murakkab jarayonlarni soddalashtiruvchi va samaradorlikni oshiruvchi maxsus veb ilovalarni ishlab chiqamiz.",
+      "mobile": "Android va iOS platformalari uchun yuqori sifatli, tezkor va xavfsiz mobil ilovalar ishlab chiqamiz.",
+      "branding": "Brendni shakllantirish, logotip va vizual yechimlar orqali kompaniyangizni bozorda ajratib turadigan noyob qiyofa yaratamiz.",
+      "design": "UI/UX tamoyillariga asoslangan estetik va foydalanuvchi uchun qulay interfeyslar loyihalash — tashrif buyuruvchilarni mijozga aylantirish kaliti.",
+      "ai": "Sun'iy intellekt asosida biznes jarayonlarini avtomatlashtiramiz — vaqt va xarajatlaringizni tejang.",
+      "n8n": "Turli tizim va platformalarni yagona oqimga ulash orqali ish jarayonlaringizni optimallashtiramiz.",
+      "saas": "Moslashuvchan va xavfsiz SaaS yechimlari — biznesingizni yangi darajaga olib chiqadigan xizmatlar.",
+      "mechanical": "Innovatsion texnologiyalar asosida mexanik muhandislik loyihalarini ishlab chiqish va joriy etishda yordam beramiz."
+    }
+  },
+  "tools": { "title": "Asboblar va stack" },
+  "works": { "title": "Loyihalar" },
+  "price": {
+    "title": "Narxlar",
+    "basic": "Basic",
+    "standard": "Standard",
+    "premium": "Premium",
+    "cta": "Boshlash"
+  },
+  "blog": { "title": "Blog", "readMore": "Ko'proq o'qish" },
+  "contact": {
+    "title": "Aloqa",
+    "firstName": "Ism",
+    "lastName": "Familiya",
+    "email": "Email",
+    "phone": "Telefon",
+    "username": "Foydalanuvchi nomi",
+    "message": "Xabar",
+    "submit": "Yuborish"
+  },
+  "lang": {
+    "english": "English",
+    "uzbek": "O'zbek",
+    "russian": "Русский"
+  },
+  "auth": {
+    "login": "Kirish",
+    "install": "Ilovani o'rnatish"
+  },
+  "footer": {
+    "company": "Steppe IT Company",
+    "description": "Biznesingizni rivojlantiruvchi texnologik hamkor",
+    "quickLinks": "Tezkor havolalar",
+    "services": "Xizmatlar", 
+    "contact": "Aloqa",
+    "address": "Manzil: Jizzakh, O'zbekiston",
+    "email": "Email: info@steppeit.uz",
+    "phone": "Tel: +998 91 209 77 33",
+    "rights": "Barcha huquqlar himoyalangan",
+    "social": "Ijtimoiy tarmoqlar"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "brand": "Steppe IT Company",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "tools": "Tools",
+    "works": "Works",
+    "price": "Price",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Engineering software that scales like the steppe.",
+    "subheadline": "Reliable end-to-end product engineering, DevOps, and automation for ambitious teams.",
+    "ctaDemo": "Request a Demo",
+    "ctaServices": "See Services"
+  },
+  "about": {
+    "title": "About Us",
+    "copy": "We are a premium engineering partner building robust, scalable products with a focus on reliability, performance, and design."
+  },
+  "services": {
+    "title": "Services",
+    "items": {
+      "websites": "Website Development",
+      "webapps": "Web Apps",
+      "mobile": "Mobile Development",
+      "branding": "Branding",
+      "design": "Design",
+      "ai": "AI Automation",
+      "n8n": "n8n Integrations",
+      "saas": "SaaS System",
+      "mechanical": "Mechanical Engineering"
+    },
+    "descriptions": {
+      "websites": "Modern and responsive website development",
+      "webapps": "Premium delivery with clean architecture and automation.",
+      "mobile": "High-quality, fast and secure mobile applications for Android and iOS platforms.",
+      "branding": "Brand development, logo and visual solutions to create a unique identity that sets your company apart in the market.",
+      "design": "Aesthetic and user-friendly interfaces based on UI/UX principles - the key to converting visitors into customers.",
+      "ai": "Automate business processes based on artificial intelligence - save your time and costs.",
+      "n8n": "Optimize your workflows by connecting various systems and platforms into a single flow.",
+      "saas": "Flexible and secure SaaS solutions - services that take your business to the next level.",
+      "mechanical": "Development and implementation of mechanical engineering projects based on innovative technologies."
+    }
+  },
+  "tools": {
+    "title": "Tools & Stack"
+  },
+  "works": {
+    "title": "Selected Works"
+  },
+  "price": {
+    "title": "Pricing",
+    "basic": "Basic",
+    "standard": "Standard",
+    "premium": "Premium",
+    "cta": "Get Started"
+  },
+  "blog": {
+    "title": "Blog",
+    "readMore": "Read More"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "username": "Username",
+    "message": "Message",
+    "submit": "Send Message"
+  },
+  "lang": {
+    "english": "English",
+    "uzbek": "O'zbek",
+    "russian": "Русский"
+  },
+  "auth": {
+    "login": "Login",
+    "install": "Install App"
+  },
+  "footer": {
+    "company": "Steppe IT Company",
+    "description": "Technology partner for your business development",
+    "quickLinks": "Quick Links",
+    "services": "Services", 
+    "contact": "Contact",
+    "address": "Address: Tashkent, Uzbekistan",
+    "email": "Email: info@steppeit.uz",
+    "phone": "Phone: +998 90 123 45 67",
+    "rights": "All rights reserved",
+    "social": "Social Networks"
+  }
+}
